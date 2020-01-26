@@ -1,0 +1,63 @@
+[
+  {
+    "type": "Shirt",
+    "sizes": ["2XL","M","S","3XL"],
+    "limit": 15,
+    "onsale": true
+  },
+  {
+    "type": "Underwear",
+    "sizes": ["XS","S","M","L","XL"],
+    "limit": 10,
+    "onsale": false
+  },
+  {
+    "type": "Wollen",
+    "sizes": ["3XS","S","L","XL"],
+    "limit": 2,
+    "onsale": true
+  },
+  {
+    "type": "Pants",
+    "sizes": ["3XS","XL","S","XS","M","2XL","3XL","L","2XS"],
+    "limit": 7,
+    "onsale": true
+  },
+  {
+    "type": "Suit",
+    "sizes": ["L","M","S"],
+    "limit": 1,
+    "onsale": true
+  },
+  {
+    "type": "Dress",
+    "sizes": ["XL","3XL","XS","2XL","L"],
+    "limit": 8,
+    "onsale": true
+  },
+  {
+    "type": "Jacket",
+    "sizes": ["XL","3XL","XS","S","L"],
+    "limit": 3,
+    "onsale": true
+  },
+  {
+    "type": "Shorts",
+    "sizes": ["2XL","XS","S","L"],
+    "limit": 6,
+    "onsale": true
+  },
+  {
+    "type": "Scarf",
+    "sizes": ["M"],
+    "limit": 2,
+    "onsale": false
+  },
+  {
+    "type": "Belt",
+    "sizes": ["3XS","2XS","XS","S","M","L","XL","2XL","3XL"],
+    "limit": 3,
+    "onsale":true
+  }
+]
+
